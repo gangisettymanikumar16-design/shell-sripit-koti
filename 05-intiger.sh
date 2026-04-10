@@ -5,9 +5,9 @@ b=3
 
 if ["$a" -eq "$b"]
 then
-echo "two both varible the same"
+echo " both varible are the same"
 else
-echo "two both varible the different"
+echo " both varible are the different"
 fi
 
 
